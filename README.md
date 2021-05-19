@@ -1,1 +1,1 @@
-# Um-bot-basico
+Apenas exclua essa pasta
